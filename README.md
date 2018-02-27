@@ -1,6 +1,10 @@
 Lab 5: First contact with dplyr and ggplot2
 ================
 
+Create lab05_Huiqing_Fu.Rmd
+Finish the first version of lab05
+
+
 > ### Learning Objectives:
 >
 > -   Get started with `"dplyr"`
